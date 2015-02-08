@@ -1,0 +1,7 @@
+^dist.ini
+^MANIFEST.SKIP
+Git-Libgit2.*
+^\.gitignore
+^\.git
+^\.build
+
